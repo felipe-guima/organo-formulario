@@ -1,5 +1,5 @@
 
-Projeto feito a partir do creat react app, formulário que manipula os dados e cria um card dentro da lista selecionada, dica para criar a imagem do card, apenas use seu endereço do github com final .png, o meu seria https://github.com/felipe-guimaraess.png e assim já cria a foto.
+Projeto feito a partir do creat react app, formulário que manipula os dados e cria um card dentro da lista selecionada, dica para criar a imagem do card, apenas use seu endereço do github com final .png, o meu seria https://github.com/felipe-guima.png e assim já cria a foto.
 
 
 
